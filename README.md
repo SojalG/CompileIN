@@ -1,12 +1,36 @@
-# React + Vite
+# CompileIN – AI Assisted Web Compiler
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
 
-Currently, two official plugins are available:
+CompileIN is an AI-assisted web-based compiler designed to enhance coding and learning experiences through an interactive and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* Code editor with real-time compilation
+* AI-assisted coding support
+* Clean and responsive UI
+* Efficient code management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React.js
+* Node.js
+* MongoDB
+* Tailwind CSS
+
+
+## ⚙️ Installation
+
+```bash
+npm install
+cd .server
+npm start
+cd .main
+npm run dev
+```
+
+## 📌 Future Improvements
+
+* Classroom integration for assignments
+* Collaboration features
+* AI debugging assistant
