@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import Editor from "@monaco-editor/react";
-import "./Compilerstyle.css";
+import "./compilerstyle.css";
 import profile from "./pics/profile.png";
 import copy from "./pics/copy.png";
 import terminal from "./pics/terminal.png";

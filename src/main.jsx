@@ -32,7 +32,7 @@ const router = createBrowserRouter([
     ]
   },
   {
-    path: "/compiler",
+    path: "/",
     element: <App />,
   }
 ],
